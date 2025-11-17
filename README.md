@@ -29,7 +29,7 @@ $ yarn add quickmongo
 ## QuickMongo
 
 ```js
-import { Database } from "quickmongo";
+import { DB } from "quickmongo";
 
 const db = new Database("mongodb://localhost:27017/quickmongo");
 
